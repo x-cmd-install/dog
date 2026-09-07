@@ -5,13 +5,13 @@ about:
   head: 721440b
   archived: false
   latestVersion: "v0.1.0"
-  collectedAt: 2026-09-07T05:57:50Z
+  collectedAt: 2026-09-07T18:30:54Z
 timeline:
   created: 2020-04-25
   lastCommit: 2021-10-07
   lastRelease: 2020-11-07
 popularity:
-  star: 6692
+  star: 6693
   watcher: 38
   fork: 209
   release: 1
@@ -82,7 +82,7 @@ total:
   commit: 201
 ---
 path: /home/runner/.x-repo/github.com/ogham/dog
-collectedAt: 2026-09-07T05:57:51Z
+collectedAt: 2026-09-07T18:30:54Z
 loc:
   Rust:
     code: 5831
@@ -143,7 +143,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:57:51+00:00
+  collectedAt: 2026-09-07T18:30:55+00:00
   platform:
     darwin/arm64:
       name:  null
