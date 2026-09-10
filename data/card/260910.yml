@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.0"
   latestRelease: "v0.1.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T06:14:44Z
+  collectedAt: 2026-09-10T18:14:20Z
 timeline:
   created: 2020-04-25
   lastCommit: 2021-10-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2020-11-07
   lastPrerelease: 
 popularity:
-  star: 6693
+  star: 6691
   watcher: 38
   fork: 210
   release: 1
@@ -86,7 +86,7 @@ total:
   commit: 201
 ---
 path: /home/runner/.x-repo/github.com/ogham/dog
-collectedAt: 2026-09-10T06:14:45Z
+collectedAt: 2026-09-10T18:14:20Z
 loc:
   Rust:
     code: 5831
