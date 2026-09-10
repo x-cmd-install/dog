@@ -4,13 +4,25 @@
 
 A command-line DNS client.
 
-![dog](https://repo.x-cmd.io/dog.svg)
+![dog](https://repo.x-cmd.io/dog.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install dog
 ```
+
+## 代码洞察
+
+合计: **9,410** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 5,831 | 80 | 1,434 | 49 |
+| Toml | 2,133 | 160 | 527 | 38 |
+| Json | 1,271 | 0 | 0 | 44 |
+| PowerShell | 63 | 15 | 12 | 1 |
+| Bash | 40 | 0 | 8 | 1 |
 
 ## 源代码
 
@@ -23,11 +35,10 @@ x install dog
 - **最新版本**: `v0.1.0` (2020-11-07)
 - **最近提交**: 2021-10-07
 - **Release 含资产**: 7 个
-- **发布时间**: 2020-11-07T12:39:55Z
 
 ## 流行度
 
-- **Star**: 6,693 · **Fork**: 210 · **开放 issue**: 101 · **贡献者**: 17
+- **Star**: 6,691 · **Fork**: 210 · **开放 issue**: 101 · **贡献者**: 17
 
 ## 累计统计
 
@@ -38,20 +49,23 @@ x install dog
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 0 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last720d | 2024-09-20 | 0 | 0 | 1 | 0 | 7 | 0 |
 
-## 代码规模
+## Release 资产
 
-合计: **9,410** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 5,831 | 80 | 1,434 | 49 |
-| Toml | 2,133 | 160 | 527 | 38 |
-| Json | 1,271 | 0 | 0 | 44 |
-| PowerShell | 63 | 15 | 12 | 1 |
-| Bash | 40 | 0 | 8 | 1 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dog-v0.1.0-x86_64-apple-darwin.zip](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-apple-darwin.zip) | 265.4 KiB | `native/darwin/x64` |
+| [dog-v0.1.0-x86_64-apple-darwin.zip.minisig](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-apple-darwin.zip.minisig) | 322 B | `native/darwin/x64` |
+| [dog-v0.1.0-x86_64-pc-windows-msvc.zip](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-pc-windows-msvc.zip) | 239.9 KiB | `native/win/x64` |
+| [dog-v0.1.0-x86_64-pc-windows-msvc.zip.minisig](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-pc-windows-msvc.zip.minisig) | 325 B | `native/win/x64` |
+| [dog-v0.1.0-x86_64-unknown-linux-gnu.zip](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-unknown-linux-gnu.zip) | 291.2 KiB | `native/linux/x64/glibc` |
+| [dog-v0.1.0-x86_64-unknown-linux-gnu.zip.minisig](https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-unknown-linux-gnu.zip.minisig) | 327 B | `native/linux/x64/glibc` |
+| [SHA256SUMS](https://github.com/ogham/dog/releases/download/v0.1.0/SHA256SUMS) | 311 B | `other` |
 
 ## 改进这些数据
 
@@ -62,4 +76,4 @@ dog 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:14:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:39:15Z._
