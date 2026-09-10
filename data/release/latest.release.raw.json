@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 271723,
       "digest": null,
-      "download_count": 16570,
+      "download_count": 16572,
       "created_at": "2020-11-07T12:15:34Z",
       "updated_at": "2020-11-07T12:15:38Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 322,
       "digest": null,
-      "download_count": 126,
+      "download_count": 127,
       "created_at": "2020-11-07T12:26:28Z",
       "updated_at": "2020-11-07T12:26:29Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-apple-darwin.zip.minisig"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 245703,
       "digest": null,
-      "download_count": 13147,
+      "download_count": 13151,
       "created_at": "2020-11-07T12:15:39Z",
       "updated_at": "2020-11-07T12:15:40Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 325,
       "digest": null,
-      "download_count": 309,
+      "download_count": 310,
       "created_at": "2020-11-07T12:26:29Z",
       "updated_at": "2020-11-07T12:26:29Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-pc-windows-msvc.zip.minisig"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 298210,
       "digest": null,
-      "download_count": 42620,
+      "download_count": 42622,
       "created_at": "2020-11-07T12:15:40Z",
       "updated_at": "2020-11-07T12:15:41Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-unknown-linux-gnu.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 327,
       "digest": null,
-      "download_count": 307,
+      "download_count": 308,
       "created_at": "2020-11-07T12:26:29Z",
       "updated_at": "2020-11-07T12:26:29Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/dog-v0.1.0-x86_64-unknown-linux-gnu.zip.minisig"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 311,
       "digest": null,
-      "download_count": 386,
+      "download_count": 387,
       "created_at": "2020-11-07T12:26:30Z",
       "updated_at": "2020-11-07T12:26:30Z",
       "browser_download_url": "https://github.com/ogham/dog/releases/download/v0.1.0/SHA256SUMS"
