@@ -38,22 +38,22 @@ Total: **9,410** lines of code across **133** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 6,692 · **Forks**: 216 · **Open issues**: 101 · **Contributors**: 17
+- **Stars**: 6,693 · **Forks**: 216 · **Open issues**: 102 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 16 · **Open PRs**: 11 · **Closed issues**: 34 · **Open issues**: 67 · **Commits**: 201
+- **Releases**: 1 · **Merged PRs**: 16 · **Open PRs**: 11 · **Closed issues**: 34 · **Open issues**: 68 · **Commits**: 201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last180d | 2026-05-03 | 0 | 0 | 0 | 1 | 0 | 0 |
-| 360d | 2025-11-04 | 0 | 0 | 1 | 1 | 2 | 0 |
-| last720d | 2024-11-09 | 0 | 0 | 1 | 1 | 6 | 0 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last180d | 2026-05-04 | 0 | 0 | 0 | 1 | 1 | 0 |
+| 360d | 2025-11-05 | 0 | 0 | 1 | 1 | 3 | 0 |
+| last720d | 2024-11-10 | 0 | 0 | 1 | 1 | 7 | 0 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for dog lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T06:50:59Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T06:41:41Z._
